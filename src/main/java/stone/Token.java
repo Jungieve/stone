@@ -1,4 +1,6 @@
-import ASTree.StoneException;
+package stone;
+
+import stone.Exception.StoneException;
 
 /**
  * Created by 丛子涵 on 2017/12/18
@@ -8,7 +10,7 @@ public abstract class Token {
     public static final String EOL = "\\n";
     private int lineNumber;
 
-    protected Token(int line){
+    public Token(int line){
         lineNumber = line;
     }
     public boolean isNumber(){ return false; }
