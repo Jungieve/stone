@@ -1,6 +1,6 @@
 package stone.Exception;
 
-import stone.Token;
+import stone.Parser.Token;
 
 import java.io.IOException;
 

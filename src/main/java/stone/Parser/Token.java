@@ -1,4 +1,4 @@
-package stone;
+package stone.Parser;
 
 import stone.Exception.StoneException;
 
