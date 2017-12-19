@@ -1,6 +1,6 @@
 package stone.AST;
 
-import stone.Parser.Token;
+import stone.Scanner.Token;
 
 /**
  * Created by 丛子涵 on 2017/12/19

@@ -1,4 +1,4 @@
-package stone.Parser;
+package stone.Scanner;
 
 import stone.Exception.ParseException;
 

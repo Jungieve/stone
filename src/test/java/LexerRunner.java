@@ -1,6 +1,6 @@
 import stone.Exception.ParseException;
-import stone.Parser.Lexer;
-import stone.Parser.Token;
+import stone.Scanner.Lexer;
+import stone.Scanner.Token;
 
 /**
  * Created by 丛子涵 on 2017/12/19
